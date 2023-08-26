@@ -13,7 +13,7 @@ I have been interested in coding since high school. It began taking AP CSA which
 - Tools:
   - Visual Studio Code, IntelliJ IDEA, Pycharm, MySQL, Terminal, Git
 
-# :round_pushpin:
+# :round_pushpin: What I'm Up To
 - :clipboard: Currently I am...
   - Self-learning JavaScript
   - Practicing LeetCode
@@ -38,5 +38,6 @@ I have been interested in coding since high school. It began taking AP CSA which
 
 
 # :bar_chart: Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtomchuk2005&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtomchuk2005&theme=blue-green)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtomchuk2005&theme=blue-green)
