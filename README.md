@@ -38,6 +38,5 @@ I have been interested in coding since high school. It began taking AP CSA which
 
 
 # :bar_chart: Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtomchuk2005&theme=blue-green)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtomchuk2005&theme=blue-green)
