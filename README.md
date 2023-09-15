@@ -8,7 +8,7 @@ I have been interested in coding since high school. It began taking AP CSA which
 ### :briefcase: Credentials
 
 - Languages & Frameworks:
-  - Java, Python, HTML, CSS, JavaScript (Learning), SQL, Bash
+  - Java, Python, HTML, CSS, JavaScript (Learning), SQL, Vim
 
 - Tools:
   - Visual Studio Code, IntelliJ IDEA, Pycharm, MySQL, Terminal, Git
