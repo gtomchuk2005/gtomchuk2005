@@ -3,7 +3,7 @@
 # :postbox: About Me
 My name is Greg and I am currently studying Computer Science!
 
-I have been interested in coding since high school. It began taking AP CSA which taught me the basics of Java, and from there I began self-studying Python, web development, and databases. I am now studying to achieve a Computer Science degree.
+I have been interested in coding since high school. It began with taking AP CSA which taught me the basics of Java, and from there I began self-studying Python, web development, and databases. I am now studying to achieve a Computer Science degree.
 
 ### :briefcase: Credentials
 
