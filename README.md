@@ -1,26 +1,21 @@
-### Hi There!
------
-# :postbox: About Me
-My name is Greg and I am currently studying Computer Science!
+<h1 align="center">Hi 👋 I'm Gregory Tomchuk</h1>
 
-I have been interested in coding since high school. It began with taking AP CSA which taught me the basics of Java, and from there I began self-studying Python, web development, databases, and AI/ML. I am now studying to achieve a Computer Science degree. I hope to become a software engineer in the future - preferably in fullstack development.
+# 💫 About Me
 
-### :briefcase: Credentials
-- Experience:
-  - Fullstack Developer (Built web apps with AI integration)
-  - Mathematics and Programming Instructor
+I am a third-year computer science student at Baruch College, passionate about exploring software engineering and fullstack development.
 
-# :round_pushpin: What I'm Up To
-- :clipboard: Currently I am...
-  - Grinding LeetCode
------
+## 🚀 What I'm Up To
+- Serving as the President for Baruch Full Stack, a student-run project-based software engineering club
+- Solving algorithmic problems with LeetCode
+- Building fullstack applications with SpringBoot and PostgreSQL
 
-# Tech Stack
-[![Web Development](https://skillicons.dev/icons?i=html,css,js,ts,react,next,express,nodejs,mongodb,firebase,flask,django,sqlite,mysql,tailwind&theme=dark)](https://skillicons.dev)
+## 🌐 Connect With Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gregory-tomchuk/)
 
-[![Other Languages](https://skillicons.dev/icons?i=py,java,cpp,c,bash,vim&theme=dark)](https://skillicons.dev)
+## Tech Stack
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,idea,eclipse&theme=dark)](https://skillicons.dev)
+Languages: [![Languages](https://skillicons.dev/icons?i=py,js,ts,html,css,java,cpp,c,bash)](https://skillicons.dev)
 
-# :bar_chart: Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtomchuk2005)](https://github.com/anuraghazra/github-readme-stats)
+Libraries/Frameworks: [![Libraries/Frameworks](https://skillicons.dev/icons?i=react,next,nodejs,express,spring,flask,django,tailwind&theme=dark)](https://skillicons.dev)
+
+Developer Tools: [![Developer Tools](https://skillicons.dev/icons?i=git,github,mongodb,postgres,mysql,sqlite,firebase,postman,vim,vscode,idea)](https://skillicons.dev)
